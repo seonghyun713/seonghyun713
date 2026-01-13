@@ -12,8 +12,8 @@
     </div>
     <div style="text-align: left;">
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🧑‍💻 Contact me </h2> <br> 
-    <div style="text-align: left;"> <a href=https://www.instagram.com/seonghyun_0713?igsh=MTM5ZWI5dTRzeHVkcw%3D%3D&utm_source=qr> <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=Instagram&logoColor=white&link=https://www.instagram.com/seonghyun_0713?igsh=MTM5ZWI5dTRzeHVkcw%3D%3D&utm_source=qr"> </a>
+    <div style="text-align: left;"> <a href=mailto:rksoop71@gmail.com> <img src="https://img.shields.io/badge/Gmail-EA4335?style=flat&logo=Gmail&logoColor=white&link=mailto:rksoop71@gmail.com"> </a>
+         <a href=https://www.instagram.com/seonghyun_0713?igsh=MTM5ZWI5dTRzeHVkcw%3D%3D&utm_source=qr> <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=Instagram&logoColor=white&link=https://www.instagram.com/seonghyun_0713?igsh=MTM5ZWI5dTRzeHVkcw%3D%3D&utm_source=qr"> </a>
           </div>  <br> 
     <div style="text-align: left;">  </div> 
     </div>
-    
