@@ -3,11 +3,7 @@
 <div align="left">
   
   <h3>👋 Hi all, I'm Seonghyun</h3>
-  
-  <p>
-    Studying at 
-    <img src="https://img.shields.io/badge/-Hanyang%20University-00467f?style=flat&logo=HanyangUniversity&logoColor=white" height="20" align="center">
-  </p>
+  <b>Studying at</b> <img src="https://img.shields.io/badge/-Hanyang%20University-00467f?style=flat&logo=HanyangUniversity&logoColor=white" height="23" align="center">
   
 </div>
 
