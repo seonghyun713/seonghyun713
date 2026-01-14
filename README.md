@@ -65,9 +65,5 @@
 
 | PERIOD | TITLE | SUBJECT |
 | :--- | :--- | :--- |
-## 🏆 Awards & Honors
-
-| PERIOD | TITLE | SUBJECT |
-| :--- | :--- | :--- |
 | **2025.12** | **Dean's List** | Academic Excellence (GPA 4.5/4.5 in 3rd year, 2nd sem.) |
 | **2025.06** | **Dean's List** | Academic Excellence (GPA 4.5/4.5 in 3rd year, 1st sem.) |
