@@ -54,7 +54,7 @@
 | **2025.09 - 2025.12** | **Power Electronics Project** | Bi-Directional DC-DC Converter for EV<br>Optimized Buck-Boost Converter design using PSO algorithm & PSIM |
 | **2025.09 - 2025.12** | **Techno-Management Project** | Smart Plant Management Startup ('Iger-Aram')<br>Business model design and market analysis for smart gardening app |
 | **2025.09 - Present** | **IRCV Lab Internship** | Autonomous Vehicle Hardware Management<br>Sensor rigging, power distribution system analysis, and dataset construction |
-| **2025.09 - Present** | **E2E Autonomous Driving Study** | Deep Learning for Online Mapping<br>Analyzed TopoNet, LaneGraph2Seq, and VectorMapNet architectures |
+| **2025.09 - Present** | **E2E Autonomous Driving Study** | Deep Learning for Online Mapping<br>Analyzed MapTR, VectorMapNet, GeMap and Mask2Map architectures |
 | **2025.06 - 2025.09** | **Unicon Lab Internship** | MBD-Based ACC Implementation<br>Rapid Control Prototyping (RCP) with Simulink & Arduino (Auto Code Gen) |
 | **2025.05 - 2025.08** | **MathWorks AI Challenge** | AI-Based Fault Diagnosis Controller<br>Developed Reinforcement Learning agent for system health monitoring using MATLAB |
 | **2025.03 - 2025.06** | **Sensor Fusion & ADAS Visualization** | Implemented vehicle path estimation algorithm via sensor fusion<br>Visualized CIPV and TTC data for UX improvement |
