@@ -58,7 +58,7 @@
 | **2025.06 - 2025.09** | **Unicon Lab Internship** | MBD-Based ACC Implementation<br>Rapid Control Prototyping (RCP) with Simulink & Arduino (Auto Code Gen) |
 | **2025.05 - 2025.08** | **MathWorks AI Challenge** | AI-Based Fault Diagnosis Controller<br>Developed Reinforcement Learning agent for system health monitoring using MATLAB |
 | **2025.03 - 2025.06** | **Sensor Fusion & ADAS Visualization** | Implemented vehicle path estimation algorithm via sensor fusion<br>Visualized CIPV and TTC data for UX improvement |
-| **2025.03 - 2025.08** | **Developing Autonomous Driving Algorithms** | Developing autonomous driving control algorithms such as pid, pure pursuit, stanley and LQR |
+| **2025.03 - 2025.08** | **SMYD: Developing Autonomous Driving Algorithms** | Developing autonomous driving control algorithms such as pid, pure pursuit, stanley and LQR |
 
 
 <br>
