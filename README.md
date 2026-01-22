@@ -51,7 +51,7 @@
 | **2026.01 - 2026.01** | **KATECH Winter Internship** | Research on Autonomous Driving Technologies at KATECH<br>(Focusing on control algorithms and system validation) |
 | **2025.12 - 2026.02** | **KAIST Mobility Challenge** | ROS2-Based Autonomous Driving System Development<br>Integrated V2X communication and control logic using Python |
 | **2025.10 - 2025.11** | **Vehicle Dynamics Analysis** | Simulation & Analysis of Vehicle Behavior<br>Verified R&H performance and stability trade-offs using CarSim |
-| **2025.09 - 2025.12** | **Power Electronics Project** | Bi-Directional DC-DC Converter for EV<br>Optimized Buck-Boost Converter design using PSO algorithm & PSIM |
+| **2025.09 - 2025.12** | **Power Electronics Project** | Bi-Directional DC-DC Converter for EV<br>Optimized Buck-Boost Converter design using PSO algorithm & PSPICE & PSIM |
 | **2025.09 - 2025.12** | **Techno-Management Project** | Smart Plant Management Startup ('Iger-Aram')<br>Business model design and market analysis for smart gardening app |
 | **2025.09 - Present** | **IRCV Lab Internship** | Autonomous Vehicle Hardware Management<br>Sensor rigging, power distribution system analysis, and dataset construction |
 | **2025.09 - Present** | **E2E Autonomous Driving Study** | Deep Learning for Online Mapping<br>Analyzed MapTR, VectorMapNet, GeMap and Mask2Map architectures |
