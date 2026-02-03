@@ -48,7 +48,7 @@
 
 | PERIOD | TITLE | SUBJECT |
 | :--- | :--- | :--- |
-| **2026.01 - Present** | **Data Machine Project** | Multi-modal dataset acquisition project utilizing Camera, LiDAR, and Radar for autonomous driving research |
+| **2026.01 - Present** | **Data Machine Project** | Multi-modal dataset acquisition project utilizing GNSS, IMU, Camera, LiDAR, and Radar for autonomous driving research |
 | **2026.01 - 2026.01** | **KATECH Winter Internship** | Research on Autonomous Driving Technologies at KATECH<br>(Focusing on control algorithms and system validation) |
 | **2025.12 - 2026.02** | **KAIST Mobility Challenge** | ROS2-Based Autonomous Driving System Development<br>Integrated V2X communication and control logic using Python |
 | **2025.10 - 2025.11** | **Vehicle Dynamics Analysis** | Simulation & Analysis of Vehicle Behavior<br>Verified R&H performance and stability trade-offs using CarSim |
