@@ -68,5 +68,6 @@
 
 | PERIOD | TITLE | SUBJECT |
 | :--- | :--- | :--- |
+| **2026.02** | **Finalist Award** | Finalist, KAIST Mobility Challenge hosted by KAIST AX Lab |
 | **2025.12** | **Dean's List** | Academic Excellence (GPA 4.5/4.5 in 3rd year, 2nd sem.) |
 | **2025.06** | **Dean's List** | Academic Excellence (GPA 4.5/4.5 in 3rd year, 1st sem.) |
