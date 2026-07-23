@@ -37,7 +37,7 @@
 
 | PERIOD | TITLE | SUBJECT |
 | :--- | :--- | :--- |
-| **2026.07 - present** | **Hyundai Mobis** | Integrated Vehicle Control System Architecture Design |
+| **2026.07 - present** | **Hyundai Mobis Intern** | Integrated Vehicle Control System Architecture Design |
 | **2025.09 - 2026.06** | **IRCV Lab(HYU) Intern** | Computer Vision research in the field of Autonomous Driving |
 | **2025.06 - 2025.09** | **UNICON Lab(HYU) Intern** | Developing Control Algorithms for Autonomous Driving |
 | **2025.03 - 2025.08** | **SMYD Member** | Studying and Doing Research on Autonomous Driving |
